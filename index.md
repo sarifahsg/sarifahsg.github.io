@@ -2,20 +2,23 @@
 
 ---
 
-### Category Name 1 
+### MS Excel Advance 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 DashBoard for HDB-Managed Dwellings](/sample_page)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### MS SQL
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 e-shop customer behaviour - MS SQL](/pdf/sample_presentation.pdf)
 
----
+## PowerBI
+
+[Project 3 e-shop customer behaviour - PowerBI](http://example.com/)
+
+## Python
+[Project 3 e-shop customer behaviour - Python]
+
+
+
 
 ### Category Name 2
 
