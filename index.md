@@ -4,7 +4,7 @@
 
 ### MS Excel Advance 
 
-[Project 1 DashBoard for HDB-Managed Dwellings](/sample_page)
+[Project 1 DashBoard for HDB-Managed Dwellings](/Codes/readme.txt)
 
 ### MS SQL
 
