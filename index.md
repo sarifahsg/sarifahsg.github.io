@@ -8,7 +8,7 @@
 
 ### MS SQL
 
-[Project 2 e-shop customer behaviour - MS SQL](/pdf/sample_presentation.pdf)
+[Project 2 e-shop customer behaviour - MS SQL](/codes/Project2 e-shop customer behaviour.pdf)
 
 ## PowerBI
 
@@ -18,15 +18,6 @@
 [Project 3 e-shop customer behaviour - Python]
 
 
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
