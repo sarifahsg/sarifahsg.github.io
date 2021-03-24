@@ -12,7 +12,7 @@
 
 ## PowerBI
 
-[Project 3 e-shop customer behaviour - PowerBI](http://example.com/)
+[Project 3 e-shop customer behaviour - PowerBI](/codes/Project 3 e-shop customer behaviour - PowerBI.pbix)
 
 ## Python
 [Project 3 e-shop customer behaviour - Python]
