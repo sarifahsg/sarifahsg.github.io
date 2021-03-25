@@ -34,10 +34,15 @@ SOURCE Citation : Łapczyński M., Białowąs S. (2013) Discovering Patterns of 
 in an E shop Comparison of Consumer Buying Behaviours in Poland and Other European Countries,
 
 ## Python
-[Project 3 e-shop customer behaviour - Python]
- <br><br>WIP
-
-
+[Project 4 e-shop customer behaviour - Python](/codes/Project 4 Python Machine Learning.pdf)
+<br><br>
+The objective is to predict the type of clothing will consider given a set of parameters
+Dataset : Clickstream Data for Online Shopping "https://archive.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping#"
+<br><br>
+Models
+• Decision Trees
+• Naïve Bayes
+• Logistic Regression
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
