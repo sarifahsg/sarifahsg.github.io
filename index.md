@@ -8,7 +8,7 @@ I created an iteractive Dashboard of Housing Development Board flats sold by tow
 The objective is to identity the types of flats and areas with a concentration of specific type of income households.
 
 For areas with 1 or 2 rooms flats occupied by lower income households, social services organisations could use the information to plan their outreach activities.
-For the bigger units occupied by higher income households, commercial and marketing activities could target the appropriate segments. 
+For areas with higher income households, commercial and marketing activities could target the appropriate segments. 
 
 ### MS SQL
 
