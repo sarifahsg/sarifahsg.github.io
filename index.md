@@ -31,7 +31,8 @@ The corresponding product and colour preferences by are displayed on the details
 
 [Project 4 e-shop customer behaviour - Python](/codes/Project 4 Python Machine Learning.pdf)
 <br><br>
-The objective is to predict the type of clothing will consider given a set of parameters
+The objective is to predict the type of clothing will consider given a set of parameters.
+
 Dataset : Clickstream Data for Online Shopping "https://archive.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping#"
 <br><br>
 Models
