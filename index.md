@@ -5,6 +5,7 @@
 [Project 1 DashBoard for HDB-Managed Dwellings](/codes/Project1 HDB Dwellings.pdf)
 <br><br>I created an iteractive Dashboard of Housing Development Board flats sold by town area by average income per household.
 The objective is to identity the types of flats and areas with a concentration of specific type of income households.
+
 For areas with 1 or 2 rooms flats occupied by lower income households, social services organisations could use the information to plan their outreach activities.
 For the bigger units occupied by higher income households, commercial and marketing activities could target the appropriate segments. 
 
