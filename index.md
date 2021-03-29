@@ -20,7 +20,7 @@ The information gleaned could be used to enhance Marketing and Sales strategies 
 SOURCE Citation : Łapczyński M., Białowąs S. (2013) Discovering Patterns of Users' Behaviour
 in an E shop Comparison of Consumer Buying Behaviours in Poland and Other European Countries,
 
-## PowerBI
+## Power BI
 
 [Project 3 e-shop customer behaviour - PowerBI](/codes/Project 3 e-shop customer behaviour - PowerBI.pdf)
 
